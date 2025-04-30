@@ -1,0 +1,18 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:System="clr-namespace:System;assembly=mscorlib">
+
+
+    <System:String x:Key="NewFile">Создать</System:String>
+    <System:String x:Key="Language">Язык</System:String>
+    <System:String x:Key="Error">Ошибка</System:String>
+    <System:String x:Key="SavingError">Ошибка сохранения</System:String>
+    <System:String x:Key="OpenError">Ошибка открытия</System:String>
+    <System:String x:Key="SavingRequestTitle">Сохранить?</System:String>
+    <System:String x:Key="SavingRequestT">Сохранить изменения?</System:String>
+    <System:String x:Key="FilterTitle">Текстовые файлы (*.txt)|*.txt|Все файлы (*.*)|*.*"</System:String>
+    <System:String x:Key="OpenFile">Открыть</System:String>
+    <System:String x:Key="SaveFile">Сохранить</System:String>
+    <System:String x:Key="SaveAs">Сохранить как...</System:String>
+    <System:String x:Key="Exit">Выход</System:String>
+</ResourceDictionary>
