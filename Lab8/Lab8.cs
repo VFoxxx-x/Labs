@@ -40,10 +40,10 @@ namespace SimpleNotepad
         }
         private void SetLanguage(string languageKey)
         {
-            // Очищаем текущие ресурсы
+            // Очищаем текущие ресурсы.
             this.Resources.MergedDictionaries.Clear();
 
-            // Загружаем новый ресурс в зависимости от языка
+            // Загружаем новый ресурс в зависимости от языка.
             var resources = new ResourceDictionary
             {
                 Source = new Uri($"Resources/{languageKey}.xaml", UriKind.Relative)
