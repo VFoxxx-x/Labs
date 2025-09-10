@@ -43,7 +43,7 @@ namespace SimpleNotepad
             // Очищаем текущие ресурсы
             this.Resources.MergedDictionaries.Clear();
 
-            // Загружаем новый ресурс в зависимости от языка/
+            // Загружаем новый ресурс в зависимости от языка
             var resources = new ResourceDictionary
             {
                 Source = new Uri($"Resources/{languageKey}.xaml", UriKind.Relative)
