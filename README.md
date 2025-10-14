@@ -12,3 +12,4 @@
 8 лаба: https://drive.google.com/file/d/1Nl2tVxiRvxaM0zAStXD_t0g9KAEr_FYd/view?usp=drive_link
 
 9 лаба: https://drive.google.com/file/d/15z7FXOa-dZeHfhH9Eqmh4KZ4MIAdHjbo/view?usp=drive_link
+Добавлен новый раздел
